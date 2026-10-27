@@ -10,12 +10,12 @@ Status: **Unused** (as far as I know)
 
 ### Description
 
-Inside `assets` or `mods`, `images/misc/3-healthshit` (ion remember well i’ll have to check up on this)
+Is found inside `assets` or `mods`, in `images/misc/3-healthshit` . In Reloaded **1.0** and **1.1**, a custom healthbar sprite would be used alongside animated icons.
 
 ### Additional Information
 
-* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant. >> [You can view it here.](https://github.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/blob/main/screenshots/Lucy%20icon%20mockup.png)
-
+* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant.
+* This icon can also be seen in the sprite for **Rehearsal**'s dialogue sprite, where it contains the dialogue boxes for *Jasmine*, *Chloe*, and an unused **Lucy** textbox, as she is not seen in Rehearsal **at all**.
 ## Unused Sprites
 
 Version found: **2.1.0**
