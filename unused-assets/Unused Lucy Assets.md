@@ -14,7 +14,7 @@ Inside `assets` or `mods`, `images/misc/3-healthshit` (ion remember well i’ll 
 
 ### Additional Information
 
-* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant. >> [you can view it here](https://github.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/blob/main/screenshots/Lucy%20icon%20mockup.png)
+* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant. >> [You can view it here.](https://github.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/blob/main/screenshots/Lucy%20icon%20mockup.png)
 
 ## Unused Sprites
 
@@ -35,10 +35,9 @@ Note: Take this with a grain of salt cause the source i got it from, i don’t k
 
 ### File Locations
 
-* Smiling sprite: In lucy’s normal .json: `characters/lucy.json` >> [you can see it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Unused%20Lucy%20smiling%20sprite.png)
-* Drunk sprite: `mods/characters/lucy-drunk.json` >> [you can see it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Unused%20Lucy%20drunk%20sprite.png)
+* Smiling sprite: In lucy’s normal .json: `characters/lucy.json` >> [You can view it here.](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Unused%20Lucy%20smiling%20sprite.png)
+* Drunk sprite: `mods/characters/lucy-drunk.json` >> [You can view it here.](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Unused%20Lucy%20drunk%20sprite.png)
 
 ### Stuff To Add
 
 * [x]	Add screenshots of both sprites and the mockup of the animated icon.
-* [ ]	Document anything else i find, i guess.
