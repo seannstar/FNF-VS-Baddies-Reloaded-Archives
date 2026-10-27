@@ -35,7 +35,7 @@ Note: Take this with a grain of salt cause the source i got it from, i don’t k
 
 ### File Locations
 
-* Smiling sprite: In lucy’s normal .json: `characters/lucy.json`
+* Smiling sprite: In lucy’s normal .json: `characters/lucy.json` >> [you can see it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Screenshot_2026-10-26_221640.png)
 * Drunk sprite: `mods/characters/lucy-drunk.json`
 
 ### Stuff To Add
