@@ -36,9 +36,9 @@ Note: Take this with a grain of salt cause the source i got it from, i don’t k
 ### File Locations
 
 * Smiling sprite: In lucy’s normal .json: `characters/lucy.json` >> [you can see it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Screenshot_2026-10-26_221640.png)
-* Drunk sprite: `mods/characters/lucy-drunk.json`
+* Drunk sprite: `mods/characters/lucy-drunk.json` >> [you can see it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/image.png)
 
 ### Stuff To Add
 
-* [ ]	Screenshots of both sprites and the mockup of the animated icon.
+* [x]	Add screenshots of both sprites and the mockup of the animated icon.
 * [ ]	Document anything else i find, i guess.
