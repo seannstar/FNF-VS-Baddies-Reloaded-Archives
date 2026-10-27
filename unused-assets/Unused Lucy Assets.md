@@ -14,7 +14,7 @@ Inside `assets` or `mods`, `images/misc/3-healthshit` (ion remember well i’ll 
 
 ### Additional Information
 
-* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant.
+* This icon has both an **animated variant** alongside a basic **regular/lose** expression variant. >> [you can view it here](https://raw.githubusercontent.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/refs/heads/main/screenshots/Screenshot_2026-10-26_220008.png)
 
 ## Unused Sprites
 
