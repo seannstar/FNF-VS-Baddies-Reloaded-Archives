@@ -4,9 +4,9 @@
 
 ## Overview
 
-A spritesheet named `DERANGED` was found in Reloaded’s files, alongside its corresponding XML atlas. The asset appears to depict Jasmine, although some details differ from her actual appearance.
+A spritesheet named `DERANGED` was found in Reloaded’s files, alongside its corresponding XML atlas. The asset appears to depict Jasmine, although some details differ from her actual appearance. >> [You can view it here.](https://github.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/blob/main/screenshots/DERANGED%20unused%20sprite.png)
 
-The asset contains two animation sequences: `whole` and `faceForward`. >> [view it here](https://github.com/seannstar/FNF-VS-Baddies-Reloaded-Archives/blob/main/screenshots/DERANGED%20unused%20sprite.png)
+The asset contains two animation sequences: `whole` and `faceForward`. 
 
 ## File Information
 
