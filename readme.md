@@ -18,7 +18,7 @@ Some of this stuff is pretty easy to identify, while other things are a bit more
 * unconfirmed/ — Stuff I haven’t figured out yet.
 * screenshots/ — Images to go along with the findings.
 
-More will be added as I go through the files.
+More will be added as I go through the files. You may not see all of the folders listed here as the repo is still early in development as of now.
 
 ## Notes
 
