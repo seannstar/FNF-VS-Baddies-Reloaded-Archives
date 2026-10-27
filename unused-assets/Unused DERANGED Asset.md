@@ -29,7 +29,7 @@ I haven’t found this asset being used anywhere in the game so far.
 
 Its original purpose, intended placement, and whether it was associated with planned or removed content remain unknown.
 
-Stuff To Add
+## Stuff To Add
 
 * [ ]	Screenshot of the original spritesheet and animations.
 * [ ]	Any references to the asset elsewhere in the files.
